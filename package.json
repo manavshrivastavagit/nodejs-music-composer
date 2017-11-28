@@ -1,0 +1,7 @@
+{
+  "name": "nodejs-music-composer",
+  "version": "0.0.1",
+  "dependencies": {
+    "scribbletune": "^0.11.1"
+  }
+}
